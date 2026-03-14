@@ -2,6 +2,7 @@
 layout: post
 title:  "Marcels Flammkuchen"
 date: 2026-03-04
+categories: glutenfrei milchfrei
 ---
 
 # Flammkuchen
